@@ -1,5 +1,6 @@
 # MegaCD-Connect-BD-Remake
 20.02.2025 rerouting, optimizing, adding capacitor in 5V input.
+
 This is the Schematics, PCB and Logic for the Mega-CD Connect BD Targeting the 315-5477 (MCE V1) MegaCD.
 
 It is to replace the 837-8327-01 IC BD MEGA-CD CONNECT BD with a failed ASIC to the older Logic version of the board that has the Peel IC.
